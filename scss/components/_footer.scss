@@ -1,0 +1,31 @@
+footer{
+    background-color: $negro;
+    h4{
+        font-size: 40px;
+        font-weight: 800;
+        color:white;
+    }
+    .copyright{
+        font-family:'Courier New', Courier, monospace;
+        margin: 50px 80px 30px  80px;
+        color: white;
+    }
+    .contenedor-iconos{
+        display: flex;
+        justify-content: center;
+        justify-content: space-between;
+        
+    }
+    .iconos{
+        width: 35px ;
+    }
+}
+
+ 
+
+
+
+
+
+
+

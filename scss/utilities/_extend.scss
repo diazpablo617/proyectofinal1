@@ -1,0 +1,28 @@
+%expand100x100{
+    width: 100%;
+    height: 100%
+}
+
+.grid1{
+    img{
+        @extend %expand100x100
+    }
+}
+
+.grid2{
+    img{
+        @extend %expand100x100
+    }
+}
+
+.grid3{
+    img{
+        @extend %expand100x100
+    }
+}
+
+.grid4{
+    img{
+        @extend %expand100x100
+    }
+}
